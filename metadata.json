@@ -1,0 +1,9 @@
+
+{
+  "name": "RAG-Powered AI Chatbot Landing Page",
+  "description": "A modern landing page with a built-in RAG (Retrieval-Augmented Generation) chatbot. Users can upload documents in the admin panel to provide custom knowledge for the AI agent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
